@@ -8,10 +8,10 @@ canvas.height = window.innerHeight;
 
 // Player settings
 let player = {
-  x: canvas.width / 1,
+  x: canvas.width / 2,
   y: canvas.height / 1,
   size: 150, // Size of the player character
-  speed: 18,
+  speed: 15,
   image: new Image(),
   imageSrc: 't-man.png' // Path to your static PNG image
   
@@ -62,3 +62,7 @@ window.addEventListener('keyup', (e) => {
 });
 
 
+
+
+
+///////////////////////////////////////////////////////////////////
