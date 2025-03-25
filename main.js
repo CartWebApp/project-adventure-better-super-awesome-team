@@ -11,7 +11,7 @@ let player = {
   x: canvas.width / 1,
   y: canvas.height / 1,
   size: 150, // Size of the player character
-  speed: 10,
+  speed: 18,
   image: new Image(),
   imageSrc: 't-man.png' // Path to your static PNG image
   
