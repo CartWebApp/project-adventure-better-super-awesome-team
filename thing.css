@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  canvas {
+    background-image: url(background.png);
+   background-size: cover;
+    background-color: #333;
+    margin: 0 auto;
+    position: relative;
+  }
+  
